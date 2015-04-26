@@ -1,4 +1,4 @@
-## Matrix inversion.  The pair of functions makeCacheMatrix and
+## Matrix inversion!  The pair of functions makeCacheMatrix and
 ## cacheSolve cache and return the inverse of a matrix.  This is an
 ## alternative to computing the inverse repeatedly.
 
